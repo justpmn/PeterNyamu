@@ -85,9 +85,7 @@
 
 ## 🌍 Beyond Code
 
-- 🎓 IBM SkillsBuild AI & Data Engineering Learner
 - 📚 Lifelong learner passionate about emerging technologies
-- 💡 Interested in building technology that creates meaningful impact
 - 🎮 Gamer and tech enthusiast who enjoys solving challenging problems
 
 ---
