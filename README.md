@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Informatics+%7C+AI+%7C+Data+Engineering+%7C+Software+Development&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Informatics+%7C+AI+%7C+ML%7C+Software+Development&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi there, I'm Peter Nyamu 👋</h1>
