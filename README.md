@@ -14,7 +14,7 @@
 
 💡 I enjoy combining software engineering, artificial intelligence, and data-driven technologies to create impactful applications.
 
-- 🔭 **Currently Working On:** AI-Powered Career Mentorship System &
+- 🔭 **Currently Working On:** AI-Powered Career Mentorship System & opendraft
 - 🌱 **Currently Learning:** Machine Learning, Data Engineering, Cloud Technologies, and Advanced Python Development
 - ⚡ **Interests:** Artificial Intelligence • Data Science • Software Engineering • IoT • Embedded Systems • Data Analytics • Machine Learning
 - 🤝 **Open To:** Collaborating on impactful projects and contributing to open source
